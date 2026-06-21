@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and results (keep structure optional, ignore large files)
+*.xlsx
+*.csv
+*.png
+*.jpg
+*.pdf
+
+# Logs
+*.log
+
+# Keep the two datasets the user wants to upload
+*.xlsx
+!训练集汇总表-用于提交.xlsx
+!中药摩尔比测试集.xlsx
