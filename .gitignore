@@ -33,6 +33,5 @@ Thumbs.db
 *.log
 
 # Keep the two datasets the user wants to upload
-*.xlsx
-!训练集汇总表-用于提交.xlsx
-!中药摩尔比测试集.xlsx
+!Training_set.xlsx
+!Chinese_medicine_mole_ratio_test_set.xlsx
